@@ -2,7 +2,7 @@
 Final project submission for web programming I
 This uses a tutorial to make a logo for one image (tutorial for logo making is Logos by Nick: https://www.youtube.com/watch?v=qCaTXvJE4X8), and uses ASMR's programming tutorial for a tile matching game with modifications (source here: https://www.youtube.com/watch?v=R51QkU6AXRE). The headers and formats are from CDN's to Bootstrap.
 
-The purpose of this project was to display knowledge of HTML/CSS/JS that would be associated with making a website.
+The purpose of this project was to display knowledge of HTML/CSS/JS that would be associated with making a website for a store called Recycle Your Ugly Gift (RYUG).
 There are 6 HTML pages: login, contact, discount, welcome, faq, and history. Each page has a fake ad and a word count of the total amount of words on the page above it, and each ad redirects to the login page.  The ads are made with a combination of images and icons from microsoft office and GIMP. 
 The search bar redirects to pages based on the usage of simple words (such as "login").
 We were also tasked with inserting animations done with CSS. Two animations were required-one is on the FAQ page, and the other on the login page. 
